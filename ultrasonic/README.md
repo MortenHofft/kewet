@@ -37,5 +37,5 @@ void loop() {
 ```
 ![basic setup](img/hc-sr04 basic setup_bb.png)
 
-<img src="img/hc-sr04 basic setup_bb.png" alt="basic setup" style="width:300px">
+<img src="img/hc-sr04 basic setup_bb.png" alt="basic setup" width=300 style="width:300px">
 
