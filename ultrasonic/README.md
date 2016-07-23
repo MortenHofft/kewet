@@ -35,5 +35,6 @@ void loop() {
   Serial.print(uS / US_ROUNDTRIP_CM);
 }
 ```
-![basic setup](img/hc-sr04 basic setup_bb.png)
+
+<img src="img/hc-sr04 basic setup_bb.png" alt="basic setup" width=450 >
 
