@@ -18,8 +18,8 @@ sensoren har 4 ben.
 ```
 #include <NewPing.h>
  
-#define TRIGGER_PIN  7
-#define ECHO_PIN     8
+#define TRIGGER_PIN  8
+#define ECHO_PIN     7
 #define MAX_DISTANCE 200
  
 NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
